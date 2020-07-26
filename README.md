@@ -1,0 +1,2 @@
+# ffmpeg-node
+ffmpeg在Nodejs中的实现，通过Nodejs实现ffmpeg中强大的音视频处理功能
